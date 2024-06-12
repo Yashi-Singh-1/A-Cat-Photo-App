@@ -1,11 +1,3 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-<meta charset="UTF-8">
-<meta name="viewport" content="width=device-width, initial-scale=1.0">
-<title>Cat Photo App</title>
-</head>
-<body>
 <h1>Cat Photo App</h1>
 <p>CatPhotoApp is a simple web application built with HTML. It showcases adorable cat photos, lists things cats love and hate, and provides a form for users to submit their cat photos.</p>
 
@@ -58,6 +50,7 @@
 <p>Contributions are welcome! Fork the repository, make your changes, and submit a pull request.</p>
 
 <h2 id="preview-image">Preview Image</h2>
+
 ![Preview](Preview.png)
 
 <h2 id="contact-information">Contact Information</h2>
